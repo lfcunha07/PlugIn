@@ -1,9 +1,7 @@
-# list-cookies
-
-## What it does
-
-This extensions list the cookies in the active tab.
-
-# What it shows
-
-Demonstration of the getAll() function in the cookie API
+# Funcionalidades
+- Mostra Quantidade de Cookies Injetados.
+- Mostra Quantidade de cookies first party e third party injetados.
+- Lista cookies first party.
+- Lista cookies third party.
+- Lista local storage.
+- Da um score bassseado nas informações acima.
