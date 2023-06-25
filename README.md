@@ -4,4 +4,4 @@
 - Lista cookies first party.
 - Lista cookies third party.
 - Lista local storage.
-- Da um score bassseado nas informações acima.
+- Da um score baseado nas informações acima.
